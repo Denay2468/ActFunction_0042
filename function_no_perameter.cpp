@@ -12,5 +12,5 @@ void input(){
 }
 
 int rectanglearea(){
-    
+    return length * width;
 }
