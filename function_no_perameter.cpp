@@ -10,3 +10,7 @@ void input(){
     cin >> width;
 
 }
+
+int rectanglearea(){
+    
+}
