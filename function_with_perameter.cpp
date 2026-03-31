@@ -25,3 +25,11 @@ void output()
 {
     cout << "Area : " << rectangleArea(length, width) <<endl;
 }
+
+int main()
+{
+    input();
+    output();
+    cout << "Perimeter : " << rectanglePerimeter(length, width);
+
+}
