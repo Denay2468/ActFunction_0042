@@ -10,3 +10,8 @@ void input()
     cout << "Enter Width : ";
     cin >> width;
 }
+
+int rectangleArea(int a , int b)
+{
+    return a * b;
+}
