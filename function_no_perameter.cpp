@@ -16,5 +16,5 @@ int rectanglearea(){
 }
 
 void output(){
-    
+    cout<<"Result :"<<rectanglearea;
 }
