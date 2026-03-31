@@ -15,3 +15,8 @@ int rectangleArea(int a , int b)
 {
     return a * b;
 }
+
+int rectanglePerimeter(int a, int b)
+{
+    return 2 * (a + b);
+}
